@@ -1,4 +1,4 @@
-[![MasterHead]https://i.gifer.com/6ELx.gif]
+[![MasterHead](https://i.gifer.com/6ELx.gif)]
 <h1 align="center">Hi 👋, I'm MOHIT DAYAL</h1>
 <h3 align="center">A passionate frontend developer and a Cyber Security Enthusiast from India.</h3>
 
